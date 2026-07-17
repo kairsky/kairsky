@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abylaikhan 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> — LLM agents · fine-tuning · observability · backend
+  <b>AI Engineer</b> — LLM agents · fine-tuning · observability
 </p>
 
 <p align="center">
