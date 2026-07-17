@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abylaikhan 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer</b> — LLM agents · fine-tuning · observability · backend
+  <b>AI Engineer</b> — LLM agents · fine-tuning · observability · backend
 </p>
 
 <p align="center">
@@ -40,21 +40,3 @@
 | [**LoRA**](https://github.com/kairsky/LoRA) | QLoRA adaptation of Qwen3.5-9B for multimodal structured extraction (document image → strict JSON), trained on a single RTX 5090 | `PyTorch` `QLoRA` `PEFT` |
 | [**FastAPI_AUTH**](https://github.com/kairsky/FastAPI_AUTH) | Authentication service: FastAPI backend with a TypeScript frontend | `FastAPI` `TypeScript` |
 | [**Revit-plugin**](https://github.com/kairsky/Revit-plugin) | Autodesk Revit plugin for BIM workflow automation | `C#` `Revit API` |
-
-### 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kairsky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairsky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kairsky&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to interesting AI/ML projects and collaboration — feel free to reach out!</i>
-</p>
-
